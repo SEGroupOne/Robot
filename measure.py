@@ -10,7 +10,10 @@ logging.basicConfig(level=logging.DEBUG,
                 filename='sonar.log',
                 filemode='w')
 
-logging.debug("this is the message !___change a master branch")
+<<<<<<< HEAD
+logging.debug("this is the message !___test changed")
+=======
+>>>>>>> master
 
 //测试时间
 #put commits logs
