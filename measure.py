@@ -10,10 +10,7 @@ logging.basicConfig(level=logging.DEBUG,
                 filename='sonar.log',
                 filemode='w')
 
-<<<<<<< HEAD
 logging.debug("this is the message !___test changed")
-=======
->>>>>>> master
 
 //测试时间
 #put commits logs
